@@ -1,4 +1,4 @@
 # Python_Stuff
-## Repo for Python projects
-### These are various projects I've been working on to learn python
-### Plan to commit other as I finish them.
+## A Repo for Python projects.
+### Various projects I've been working on to learn python.
+### Plan to commit others as I finish them.
